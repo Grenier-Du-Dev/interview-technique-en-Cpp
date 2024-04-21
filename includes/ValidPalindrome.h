@@ -5,6 +5,7 @@
 using namespace std;
 class Solution {
 public:
-    bool isPalindrome(string s);
+    bool isPalindrome1(string s);
+    bool isPalindrome2(string s);
 };
 #endif
