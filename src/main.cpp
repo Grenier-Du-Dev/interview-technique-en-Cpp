@@ -6,6 +6,6 @@
 
 int main(){
     Solution s;
-    std::cout << "Result : " << std::boolalpha << s.isPalindrome("A man, a plan, a canal: Panama") << std::endl;
+    std::cout << "Result : " << std::boolalpha << s.isPalindrome1("race a car") << std::endl;
     return 0;
 }
